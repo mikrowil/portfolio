@@ -1,0 +1,49 @@
+import React from 'react'
+import CustomParticleBackground from "../components/CustomParticleBackground";
+import Title from "../components/Title";
+import NavBar from "../components/NavBar";
+import {Link} from "gatsby";
+
+const About = ()=>{
+    return<main className={"index_main_container"}>
+        <CustomParticleBackground/>
+        <div className="tm-container">
+            <div>
+                <div className="tm-row pt-4">
+                    <div className="tm-col-left">
+                        <Title/>
+                    </div>
+                    <div className="tm-col-right">
+                        <NavBar activePage={"about"}/>
+                    </div>
+                </div>
+
+                <div className="tm-row">
+
+                    <main className="tm-col-right">
+                        <div className={"about_container"}>
+                            <h2>Junior developer looking to work in a fast paced environment</h2>
+                            <p>
+                                Programming has become more than a hobby to me. After graduating Douglas College I continued to research new and old technologies
+                                to further my understanding of what modern and up to date skills would be needed.
+                            </p>
+                            <h2>Leadership skills</h2>
+                            <p>
+                                Before starting my job as a Boston Pizza Server, I taught taekwondo while being a member of a leadership program.
+                                Being able to share my knowledge with others has always been something I enjoy.
+                            </p>
+                            <h2>Always looking for a challenge</h2>
+                            <p>
+                                I love pushing myself to always do better. Coding challenges and projects are some of my favorite pass times.
+                            </p>
+
+                        </div>
+                    </main>
+                </div>
+            </div>
+
+        </div>
+    </main>
+}
+
+export default About
