@@ -173,15 +173,18 @@ p { line-height: 1.9; }
 }
 
 @media (max-width: 380px) {
-    .about_container{
-        border: 0 solid black;
-        height: auto;
-    }
 
     .about_container > h2{
         font-size: 1.8rem;
         color:#52ce86;
         margin-bottom: 2vh;
+    }
+
+    .tm-col-right {
+
+        width: 90%;
+        height: 100%;
+
     }
 }
 
