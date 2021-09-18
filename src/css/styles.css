@@ -174,7 +174,9 @@ p { line-height: 1.9; }
 
 @media (max-width: 380px) {
     .about_container{
-        width: 100vw;
+        width: 93vw;
+        margin: 0;
+        border : none;
     }
 
     .about_container > h2{
