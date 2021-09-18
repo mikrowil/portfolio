@@ -336,8 +336,7 @@ textarea {
 
     .tm-col-right {
         width: 80%;
-        padding-left: 100px;
-        padding-right: 30px;
+
     }
 
     .tm-col-footer { padding-left: 0; }
@@ -383,7 +382,7 @@ textarea {
 
     .tm-col-right {
         padding-top: 40px;
-
+        padding-left: 30px;
     }
 
     .tm-col-footer {
