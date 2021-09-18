@@ -135,7 +135,7 @@ p { line-height: 1.9; }
 
 .tm-col-right {
     margin-left: auto;
-    margin-right: auto;
+
     width: 60%;
     height: 100%;
 
@@ -186,7 +186,8 @@ p { line-height: 1.9; }
     }
 
     .tm-col-right {
-
+        margin-right: auto;
+        margin-left: auto;
         width: 90%;
         height: 100%;
 
