@@ -166,6 +166,13 @@ p { line-height: 1.9; }
     margin: 4%;
 }
 
+@media (max-width: 380px) {
+    .about_container{
+        border: 0 solid black;
+        height: auto;
+    }
+}
+
 .about_container > h2{
     font-size: 2.5rem;
     color:#52ce86;
@@ -334,7 +341,7 @@ textarea {
     #tm-main-nav {
         position: fixed;
         top: 50px;
-        right: 40px;
+        right: 20px;
         padding-bottom: 0;
     }
 
