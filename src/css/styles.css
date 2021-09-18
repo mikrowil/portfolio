@@ -173,11 +173,13 @@ p { line-height: 1.9; }
 }
 
 @media (max-width: 380px) {
+    .about_container{
+        width: 100vw;
+    }
 
     .about_container > h2{
         font-size: 1.8rem;
-        color:#52ce86;
-        margin-bottom: 2vh;
+
     }
 
     .tm-col-right {
@@ -331,7 +333,7 @@ textarea {
     .tm-col-left { width: 40%; }
 
     .tm-col-right {
-        width: 60%;
+        width: 80%;
         padding-left: 100px;
         padding-right: 30px;
     }
