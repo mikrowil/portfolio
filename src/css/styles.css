@@ -167,6 +167,8 @@ p { line-height: 1.9; }
 .about_container{
     font-size: clamp(1.2rem,1.5vw, 1.5rem);
     overflow:auto;
+    -ms-overflow-style: none;
+
     height: 70vh;
     border-top : 1px solid #d5f8fe;
     border-bottom: 1px solid #d5f8fe;
@@ -174,6 +176,9 @@ p { line-height: 1.9; }
     border-radius: 5px;
     padding: 4%;
     margin: 4%;
+}
+.about_container::-webkit-scrollbar{
+    display: none;
 }
 
 .about_container > h2{
