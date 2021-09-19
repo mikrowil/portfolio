@@ -168,7 +168,8 @@ p { line-height: 1.9; }
     font-size: clamp(1.2rem,1.5vw, 1.5rem);
     overflow:auto;
     height: 70vh;
-    border : 1px solid #d5f8fe;
+    border-top : 1px solid #d5f8fe;
+    border-bottom: 1px solid #d5f8fe;
     background-color: rgba(0, 0, 0, 0.15);
     border-radius: 5px;
     padding: 4%;
