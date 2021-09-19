@@ -29,7 +29,7 @@ const IndexPage = () => {
 
                     <main className="tm-col-right">
 
-                        <div className={"about_container"}>
+                        <div className={"project_main_container"}>
                             <div className={"project_container"}>
                                 <h3>UHDA</h3>
                                 <div style={styles.summary}>
