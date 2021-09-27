@@ -26,7 +26,7 @@ const ProjectsList = ()=>{
                     </p>
                 </div>
                 <div className={"project_button_group"}>
-                    <a href={"https://github.com/mikrowil/MixologyV2"}>
+                    <a href={"https://github.com/mikrowil/block-chain-backend"}>
                         <i style={{marginRight:5}} className="fab fa-github"/>
                         github
                     </a>
