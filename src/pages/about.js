@@ -2,7 +2,6 @@ import React from 'react'
 import CustomParticleBackground from "../components/CustomParticleBackground";
 import Title from "../components/Title";
 import NavBar from "../components/NavBar";
-import {Link} from "gatsby";
 
 const About = ()=>{
     return<main className={"index_main_container"}>
@@ -24,17 +23,20 @@ const About = ()=>{
                         <div className={"about_container"}>
                             <h2>Junior developer looking to work in a fast paced environment</h2>
                             <p>
-                                Programming has become more than a hobby to me. After graduating Douglas College I continued to research new and old technologies
-                                to further my understanding of what modern and up to date skills would be needed.
+                                For the past 4 years I have worked as a server for Boston Pizza, allowing me to learn how to work in a stressful and fast paced environment.
+                                While working, I went to Douglas College in the Computer and information systems program. After four years, I have completed my graduation, and I am
+                                looking to further my career for the next chapter of my life.
                             </p>
                             <h2>Leadership skills</h2>
                             <p>
-                                Before starting my job as a Boston Pizza Server, I taught taekwondo while being a member of a leadership program.
+                                Before starting my job as a server, I taught taekwondo while being a member of a leadership program.
                                 Being able to share my knowledge with others has always been something I enjoy.
                             </p>
                             <h2>Always looking for a challenge</h2>
                             <p>
-                                I love pushing myself to always do better. Coding challenges and projects are some of my favorite pass times.
+                                Programming has become more than a hobby to me. After graduating Douglas College I continued to research new technologies
+                                to further my understanding of what modern and up to date skills would be needed.
+                                Coding challenges and projects are some of my favorite pass times.
                             </p>
 
                         </div>

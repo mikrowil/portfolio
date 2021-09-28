@@ -7,7 +7,9 @@ const ProjectsList = ()=>{
                 <h3>UHDA</h3>
                 <div>
                     <p>
-                        UHDA(Untitled Help Desk Application) is A Java Spring MVC Application that was created by myself, along with two of my classmates.
+                        UHDA(Untitled Help Desk Application) is A Java Spring MVC Application that was created by myself, along with two of my classmates. This system is useful to IT
+                        employees because users can upload tickets, while employees can monitor and update ticket states. Admins are given the permission to modify employee and user data, as
+                        well as assign tickets to individuals. 
                     </p>
                 </div>
                 <div className={"project_button_group"}>
@@ -21,8 +23,8 @@ const ProjectsList = ()=>{
                 <h3>Mixology</h3>
                 <div>
                     <p>
-                        Mobile application that runs on react-native. Choose from a variety of cocktails,
-                        and save your favorites for later.
+                        Mobile application that runs on react-native. Choose from over 600 unique and classic cocktails with instructions on how to make.
+                        Keep a list of you're favorites or even have our mood tester pick a drink for you. Happy hour is almost here.
                     </p>
                 </div>
                 <div className={"project_button_group"}>
@@ -33,10 +35,12 @@ const ProjectsList = ()=>{
                 </div>
             </div>
             <div className={"project_container"}>
-                <h3>Blockchain</h3>
+                <h3>Blockchain - Backend</h3>
                 <div>
                     <p>
-                        Full stack blockchain application. A React frontend connected to a python backend.
+                        The backend for a blockchain and crypto currency. Blockchains are an immutable and public database, tasked with keeping track of crypto transactions.
+                        Server set up and class details are served here.
+
                     </p>
                 </div>
                 <div className={"project_button_group"}>
