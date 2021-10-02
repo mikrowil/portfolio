@@ -160,7 +160,7 @@ p {
 
     font-size: clamp(1.2rem,1.5vw, 1.5rem);
     border : 1px solid #d5f8fe;
-    background-color: rgba(0, 0, 0, 0.15);
+    background-color: rgba(35, 33, 35, 1);
     border-radius: 5px;
     padding: 10px;
     margin: 4%;

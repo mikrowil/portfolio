@@ -21,9 +21,9 @@ const About = ()=>{
 
                     <main className="tm-col-right">
                         <div className={"about_container"}>
-                            <h2>Junior developer looking to work in a fast paced environment</h2>
+                            <h2>What have I been up to?</h2>
                             <p>
-                                For the past 4 years I have worked as a server for Boston Pizza, allowing me to learn how to work in a stressful and fast paced environment.
+                                For the past 4 years, I have worked as a server for Boston Pizza, allowing me to learn how to work in a stressful and fast paced environment.
                                 While working, I went to Douglas College in the Computer and information systems program. After four years, I have completed my graduation, and I am
                                 looking to further my career for the next chapter of my life.
                             </p>
@@ -34,8 +34,8 @@ const About = ()=>{
                             </p>
                             <h2>Always looking for a challenge</h2>
                             <p>
-                                Programming has become more than a hobby to me. After graduating Douglas College I continued to research new technologies
-                                to further my understanding of what modern and up to date skills would be needed.
+                                Programming has become more than a hobby to me. After graduating from Douglas College I continued to research new technologies
+                                to further my understanding of what modern and up to date skills would be needed. I love pushing myself to learn new skills and programming languages.
                                 Coding challenges and projects are some of my favorite pass times.
                             </p>
 
