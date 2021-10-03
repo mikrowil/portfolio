@@ -21,7 +21,7 @@ const About = ()=>{
 
                     <main className="tm-col-right">
                         <div className={"about_container"}>
-                            <h2>What have I been up to?</h2>
+                            <h2>What have I been up too?</h2>
                             <p>
                                 For the past 4 years, I have worked as a server for Boston Pizza, allowing me to learn how to work in a stressful and fast paced environment.
                                 While working, I went to Douglas College in the Computer and information systems program. After four years, I have completed my graduation, and I am
