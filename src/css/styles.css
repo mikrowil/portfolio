@@ -222,6 +222,12 @@ p {
         border : none;
         height: auto;
     }
+    .project_container > img{
+        clear: left;
+        border : 1px solid #d5f8fe;
+        border-radius: 5px;
+        margin: 0 auto;
+    }
 
     .about_container > h2{
         font-size: 1.8rem;
