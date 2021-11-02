@@ -162,7 +162,7 @@ p {
 
     font-size: clamp(1.2rem,1.5vw, 1.5rem);
     border : 1px solid #d5f8fe;
-    background-color: rgba(35, 33, 35, 1);
+    background-color: rgba(35, 33, 35, 0.8);
     border-radius: 5px;
     padding: 10px;
     margin: 4%;
@@ -208,6 +208,11 @@ p {
     margin-bottom: 5vh;
 }
 
+.contact_container{
+    padding: 4%;
+    color: #d5f8fe;
+}
+
 
 @media (max-width: 580px) {
     .about_container{
@@ -218,7 +223,7 @@ p {
     }
     .project_main_container{
         width: 93vw;
-        margin: 0;
+        margin: 0 auto;
         border : none;
         height: auto;
     }

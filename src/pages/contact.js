@@ -27,7 +27,7 @@ class Contact extends React.Component{
                     <div className="tm-row">
 
                         <main className="tm-col-right">
-                            <section className={'about_container'}>
+                            <section className={'contact_container'}>
                                 <h2>Contact Me</h2>
                                 <p>If you would like to get in touch, send me an email or follow me on my
                                     social accounts.</p>

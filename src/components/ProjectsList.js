@@ -9,6 +9,7 @@ const ProjectsList = ()=>{
         <>
             <div className={"project_container"}>
                 <h3>UHDA</h3>
+
                     <img src={imgUHDA} alt={"Project Image"}/>
                     <p>
                         UHDA(Untitled Help Desk Application) is A Java Spring MVC Application that was created by myself, along with two of my classmates. This system is useful to IT
@@ -39,7 +40,7 @@ const ProjectsList = ()=>{
                 </div>
             </div>
             <div className={"project_container"}>
-                <h3>Blockchain - Backend</h3>
+                <h3>Blockchain</h3>
                     <img src={imgBlockchain} alt={"Project Image"}/>
                     <p>
                         The backend for a blockchain and crypto currency. Blockchains are an immutable and public database, tasked with keeping track of crypto transactions.
